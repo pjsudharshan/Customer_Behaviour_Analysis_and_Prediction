@@ -1,3 +1,3 @@
-# FreeAgent_miniexploration
+# Customer Behaviour Analysis and Prediction
 
-This mini-exploration has been carried-out as a part of initial screening process of FreeAgent application.
+This mini-exploration has been carried-out as a part of initial screening of XXXXX application.
